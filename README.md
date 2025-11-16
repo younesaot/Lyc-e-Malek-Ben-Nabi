@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/818f7133-2f6c-4a20-a96c-8d4db257e8f4
+**URL**: https://younesaot.github.io/Lyc-e-Malek-Ben-Nabi/
 
 ## How can I edit this code?
 
@@ -59,15 +59,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/818f7133-2f6c-4a20-a96c-8d4db257e8f4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
