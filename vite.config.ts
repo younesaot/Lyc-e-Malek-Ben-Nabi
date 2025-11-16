@@ -15,4 +15,7 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+
+  // ⚠️ مهم جداً لتشغيل الموقع على GitHub Pages
+  base: "/Lyc-e-Malek-Ben-Nabi/",
 }));
